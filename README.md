@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/SaadAlajlan/MachineLearningMicroserviceAPI/tree/master.svg?style=svg)](https://circleci.com/gh/SaadAlajlan/MachineLearningMicroserviceAPI/tree/master)
 
 ## Project Overview
 
